@@ -1,0 +1,21 @@
+_id: req_dc56a36bcc5d459d984169cefa1e6e77
+type: Request
+parentId: fld_3991e3eba81d4f55bf34226decc35a2b
+modified: 1651709359412
+created: 1651708820753
+url: http://localhost:3000/api/user/
+name: List Users
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1651709313173
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
