@@ -1,0 +1,14 @@
+_id: env_f8bc4bdbde0c4753975d61d5d906d86c
+type: Environment
+parentId: env_b48fa750c2624f4bcf38d6875909c93887171085
+modified: 1651879891940
+created: 1651878457827
+name: QA
+data:
+  baseUrl: url_to_qa
+dataPropertyOrder:
+  "&":
+    - baseUrl
+color: "#0fcff5"
+isPrivate: false
+metaSortKey: 1651878457827

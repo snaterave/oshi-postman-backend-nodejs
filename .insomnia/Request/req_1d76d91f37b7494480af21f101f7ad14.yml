@@ -1,0 +1,30 @@
+_id: req_1d76d91f37b7494480af21f101f7ad14
+type: Request
+parentId: fld_70dfa9ef7793436db6e517f915a3180e
+modified: 1651879930084
+created: 1651837983581
+url: "{{ _.baseUrl }}/api/user/"
+name: New user
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |
+    
+    		{
+    			"name": "Ashley"
+    		}
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_7577de3e46834c7a9ffbf9de04e14c56
+authentication: {}
+metaSortKey: -1651858840861
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

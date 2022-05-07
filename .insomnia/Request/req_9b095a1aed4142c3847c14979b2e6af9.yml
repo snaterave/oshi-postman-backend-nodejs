@@ -1,0 +1,31 @@
+_id: req_9b095a1aed4142c3847c14979b2e6af9
+type: Request
+parentId: fld_70dfa9ef7793436db6e517f915a3180e
+modified: 1651879738412
+created: 1651837439708
+url: http://localhost:3000/api/user/2f42738a-8225-49d1-bbea-03bf8e936a52
+name: Get User
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_f8a5a846bb334ea39d2149b735be9263
+    name: ""
+    value: ""
+    description: ""
+    disabled: true
+headers:
+  - id: pair_ef090c53ffb34e27a29e4dd97800f9ac
+    name: id
+    value: "1"
+    description: ""
+    disabled: true
+authentication: {}
+metaSortKey: -1651858840811
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
