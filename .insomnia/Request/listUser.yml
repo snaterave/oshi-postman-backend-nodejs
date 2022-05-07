@@ -1,0 +1,21 @@
+_id: listUser
+type: Request
+parentId: fld_wrk_38e1cb380199488dbb17c2eec7989f5512dea96f
+modified: 1651941415474
+created: 1651941415474
+url: "{{ base_url }}/user"
+name: Lista los usuario
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1651941415474
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

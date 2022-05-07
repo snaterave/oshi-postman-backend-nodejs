@@ -5,6 +5,7 @@ modified: 1651878214332
 created: 1651708820726
 name: Base Environment
 data:
+  base_url: "{{ scheme }}://{{ host }}{{ base_path }}"
   baseUrl: http://localhost:3000
 dataPropertyOrder:
   "&":

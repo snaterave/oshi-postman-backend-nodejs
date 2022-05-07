@@ -1,0 +1,21 @@
+_id: createUser
+type: Request
+parentId: fld_wrk_38e1cb380199488dbb17c2eec7989f5512dea96f
+modified: 1651941415471
+created: 1651941415471
+url: "{{ base_url }}/user"
+name: Crea un usuario
+description: Crea un usuario en nuestra app
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1651941415471
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
