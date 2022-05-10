@@ -1,10 +1,10 @@
-_id: req_1d76d91f37b7494480af21f101f7ad14
+_id: req_13c9c812a96b4195ba1969fbab405210
 type: Request
 parentId: fld_70dfa9ef7793436db6e517f915a3180e
-modified: 1652186979053
-created: 1651837983581
-url: "{{ _.baseUrl }}/api/user/"
-name: New user
+modified: 1652198503082
+created: 1651951686737
+url: "{{ _.baseUrl }}/api/auth/login"
+name: Login
 description: ""
 method: POST
 body:
@@ -12,7 +12,6 @@ body:
   text: |
     
     		{
-    			"name": "Ashley",
     			"username": "achely",
     			"password": "123456"
     		}
@@ -22,7 +21,7 @@ headers:
     value: application/json
     id: pair_7577de3e46834c7a9ffbf9de04e14c56
 authentication: {}
-metaSortKey: -1651858840861
+metaSortKey: -1651858840848.5
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
